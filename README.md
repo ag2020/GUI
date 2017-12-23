@@ -7,3 +7,4 @@ This repository contains interactive games that were coded using Java Swing. The
 **@agawesome** is the sole author of all files in this repository.
 
 ## License
+This repository is licensed under the **_MIT License_** - see the [LICENSE](LICENSE) file for details.
